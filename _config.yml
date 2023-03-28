@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: https://singhparinay14.github.io/dssvr.github.io/
+url: 
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: dssvr.github.io
+baseurl: 
 
 # Title of the Site
 title: DSS-VR
