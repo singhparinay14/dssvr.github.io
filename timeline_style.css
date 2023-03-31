@@ -104,6 +104,7 @@ body {
     line-height: 268px;
     font-size: 80px;
     color: #454344;
+    
 }
 .main-timeline .circle span:before,
 .main-timeline .circle span:after{
@@ -126,7 +127,11 @@ body {
 }
 .main-timeline .circle .img{
     vertical-align: initial;
+    object-fit:cover;
     border-radius: 50%;
+    height: 160px;
+    width: 160px;
+    
 }
 .main-timeline .content{
     display: table;
@@ -135,17 +140,18 @@ body {
 }
 .main-timeline .year{
     display: block;
-    padding: 10px;
-    margin: 10px 0 50px 0;
-    background: rgb(255, 255, 255);
+    padding: 4px;
+    margin: 0px 0 50px 0;
+    background: #5ed3bf;
     border-radius: 7px;
     font-size: 25px;
+    
     color: #000000;
 }
 .main-timeline .title{
     font-size: 25px;
     font-weight: bold;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     margin-top: 0;
 }
 .main-timeline .description{
